@@ -1,11 +1,4 @@
-# DebugIt'23
-This is my project submission for DebugIt'23.
-
-# Author:
-Akash Vannam
-
 # Project Idea: Lost and Found Management System
-
 The Lost and Found Management System is a web-based platform that aims to streamline the process of reporting lost items, searching for lost items, and claiming ownership of found items for aiding the students of IIT BHU to retrieve thier lost items. The system will enable students and faculty members of our college to easily report lost items, search for lost items, and claim the ownership of found items.
 
 The website will enable students and faculty members to report unreported lost items found on campus, categorized into various types. To report a lost item, the finder will provide details such as the date, time, and place of the discovery, along with a brief description of the item that doesn't give away specific details.
